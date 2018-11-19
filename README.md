@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FermiParadox/students_math_jupyter/simple_derivatives.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FermiParadox/students_math_jupyter/master?filepath=simple_derivatives.ipynb)
 
 Script that creates exercises of derivatives and their answer when clicking the respective buttons. Currently supports the following type of derivatives:
 - a*x<sup>b</sup> (a: positive int, b: int)
